@@ -1,0 +1,5 @@
+---
+  default: -p html -p pretty
+  html: --format html --out=log/report.html
+  pretty: --format pretty
+  progress: --format progress
